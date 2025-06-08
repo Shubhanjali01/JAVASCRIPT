@@ -172,3 +172,124 @@ is a
 // z = Math.sign(x);
 
 // console.log(z);
+
+
+// ternary operator  = a shortcut to if{} and else{} statements helps to assign a variable based on a condition 
+// condition ? codeIfTrue : codeIfFalse;
+
+// let age = 24;
+// age >= 18 ? "You're an adult" : "Yor're  child";
+// console.log(message);
+//Switch statmets
+
+// 
+// let testScore = 92;
+// let letterGrade;
+// switch(true){
+//     case testScore >= 90:
+//     letterGrade = "A";
+//     break;
+// 
+//     case testScore >=80:
+//     letterGrade = "B";
+//     break;
+// 
+//     case testScore >= 70:
+//         letterGrade = "C";
+//         break;
+// 
+//     case testScore >=60:
+//         letterGrade = "D"  
+//         break; 
+//     default:
+//         letterGrade = "F";      
+// }
+// 
+// console.log(letterGrade);
+
+// let userName = " BroCode ";
+// let result = userName.charAt(1);
+// let result = userName.indexOf("o");
+// let result = userName.lastIndexOf("o");
+// let result = userName.length;
+// let result = userName.trim();
+// let result = userName.repeat(3);
+// let result = userName.sith(" ");
+// let result = userName.incltartsWith(" ");
+// let result = userName.endsWudes("o");
+
+// let phoneNum = "123-456-7890";
+// // let result = phoneNum.replaceAll("-", " ");
+// let result = phoneNum.padStart(15, "000");
+// console.log(result);
+
+// 
+// const fullName = "Bro Code";
+// let firstName = fullName.slice(0,3);
+// let lastName = fullName.slice(4,8);
+// let firstChar = fullName.slice(0,1);
+// let lastChar = fullName.slice(-4);
+
+// const email = "Bro1@gmail.com";
+// let username = email.slice(0,email.indexOf("@"));
+// let extension = email.slice(email.indexOf("@") + 1);
+// console.log(username);
+// console.log(extension);
+
+// let username = window.prompt("Enter your username: ")
+// //  username = username.trim();
+// let letter = username.charAt(0);
+// letter = letter.toUpperCase();
+// // letter = letter.toLowerCase();
+// 
+// let extrachars = username.slice(1);
+// extrachars = extrachars.toLowerCase();
+// username = letter + extrachars;
+// 
+// console.log(username);
+
+
+
+
+// = assigment operator 
+// == comparison operator(compare if values are equal)
+// === strict equality oprator (compare if values & datatype are equal)
+// != inequality operator
+// !== strict inequality operator
+
+// const PI = "3.14";
+// if(PI=== "3.14"){
+//     console.log("That is NOT Pi");
+// }else{
+//     console.log("That is Pi");
+// }
+
+
+// for loop = repeat some code a LIMITED amount of times
+
+// 
+// for (let i = 1; i <= 30; i++) {
+//     if (i == 20) {
+//         break;
+//     } else {
+//         console.log(i);
+//     }
+// }
+
+
+// while loop = repeat some code WHILE some condition is ture;
+
+// let username = "";
+// if(username === ""){
+//     console.log("You didn't enter your name");
+// 
+// }else{
+//     console.log(`Hello $${username}`);
+// }
+
+let username = "BroCode";
+while(username === "BroCode"){
+    console.log(`You didn't enter your name`);
+}
+
+console.log(`Hello ${username}`)

@@ -1,0 +1,32 @@
+body{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center; 
+
+}
+.label{
+    color: blue;
+    font-weight: 500;
+
+}
+#myText{
+    border-radius: 10px;
+    text-align: center;
+}
+
+#mySubmit{
+    background-color: rebeccapurple;
+    padding: 6px;
+    color: white;
+    height: 30px;
+    cursor: pointer;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#myResult{
+   color:blue;
+   font: optional;
+   font-weight: 800;
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;
+}

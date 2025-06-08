@@ -14,21 +14,21 @@
 # 8   01:01:46 Math object 🧮 : 06 june
 # 9   01:07:23 Random number generator ⁉  : 08 june  
 
-#10 01:15:59 If statements 🤔
-#11 01:31:56 Checked property ✅
+# 10 01:15:59 If statements 🤔     : 09 june  
+# 11 01:31:56 Checked property ✅
 
-#12 01:42:03 Ternary operator ❓
-#13 01:48:49 Switches 💡
-#14 01:55:33 String methods 🧵
+# 12 01:42:03 Ternary operator ❓
+# 13 01:48:49 Switches 💡
+# 14 01:55:33 String methods 🧵
 
-#15 02:03:35 String slicing ✂️
-#16 02:11:36 Method chaining ⛓
+# 15 02:03:35 String slicing ✂️
+# 16 02:11:36 Method chaining ⛓
 
-#17 02:17:03 Logical operators ❗
-#18 02:22:44 Strict equality 🟰
-#19 02:26:41 While loops 🔁
+# 17 02:17:03 Logical operators ❗
+# 18 02:22:44 Strict equality 🟰
+# 19 02:26:41 While loops 🔁
 
-#20 02:34:53 For loops 🔂
+# 20 02:34:53 For loops 🔂
 #21 02:40:37 ⭐ Number guessing game ↕
 
 #22 02:49:31 Functions 📞
