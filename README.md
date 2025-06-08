@@ -11,8 +11,8 @@
 # 6   00:44:48 Constants 🚫           : 01 june (2025)
 # 7   00:52:30 ⭐ Counter program 🔢   : 05 june (2025)
 
-#8   01:01:46 Math object 🧮
-#9   01:07:23 Random number generator ⁉
+# 8   01:01:46 Math object 🧮 : 06 june
+# 9   01:07:23 Random number generator ⁉  : 08 june  
 
 #10 01:15:59 If statements 🤔
 #11 01:31:56 Checked property ✅

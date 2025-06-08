@@ -1,6 +1,13 @@
 body{
-    background-color: aqua;
-    font-size:2em;/* 2em means 20% : 3em means 30% */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center; 
+}
 
-    
+#myButton{
+    font-size:3rem;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.myLabels{
+    font-size: 3rem;
 }
