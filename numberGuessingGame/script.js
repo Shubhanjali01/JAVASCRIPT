@@ -9,19 +9,19 @@
     const guess = parseInt(document.getElementById('guessInput').value);
     const message = document.getElementById('message')
     if(isNaN(guess)){
-        message.textContent="Please enter a valid Number .";
+        message.textContent="Please enter a valid Number.";
         return;
     }
     if(guess < 1 || guess > 100){
-        message.textContent = "Number out of range! Try Number between 1 and 100. ";
+        message.textContent = "Number out of range! Try Number between 1 and 100.";
 
     }else if(guess < randomNumber){
-        message.textContent = "Too low! Try again. ";
+        message.textContent = "Too low! Try again.";
     }else if (guess > randomNumber){
-        message.textContent = "Too high ! Try again. ";
+        message.textContent = "Too high! Try again. ";
 
     }else{
-        message.textContent = "Correct ! You guessed it!";
+        message.textContent = "Correct! You guessed it!";
     }
 
 }

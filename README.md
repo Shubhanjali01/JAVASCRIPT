@@ -29,19 +29,19 @@
 # 19 02:26:41 While loops 🔁
 
 # 20 02:34:53 For loops 🔂
-#21 02:40:37 ⭐ Number guessing game ↕
+# 21 02:40:37 ⭐ Number guessing game ↕
 
-#22 02:49:31 Functions 📞
-#23 03:01:44 Variable scope 🏠
+# 22 02:49:31 Functions 📞   : 10 may 2025
+# 23 03:01:44 Variable scope 🏠
 
 # 24 03:07:10 ⭐ Temperature conversion program🌡️: 30 m | 26 may 
-#25 03:23:28 Arrays 🗃
-#26 03:31:33 Spread operator 📖
+# 25 03:23:28 Arrays 🗃   : 10 may 2025
+# 26 03:31:33 Spread operator 📖   :11 may 2025
 
-#27 03:36:27 Rest parameters 🗄
-#28 03:44:32 ⭐ Dice Roller program 🎲
+# 27 03:36:27 Rest parameters 🗄
+# 28 03:44:32 ⭐ Dice Roller program 🎲
 
-#29 03:58:44 ⭐ Random password generator 🔑
+# 29 03:58:44 ⭐ Random password generator 🔑
 #30 04:10:49 Callbacks 🤙
 
 #31 04:18:05 forEach() ➿

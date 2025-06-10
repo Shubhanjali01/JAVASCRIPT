@@ -287,9 +287,51 @@ is a
 //     console.log(`Hello $${username}`);
 // }
 
-let username = "BroCode";
-while(username === "BroCode"){
-    console.log(`You didn't enter your name`);
-}
+// let username = "BroCode";
+// while(username === "BroCode"){
+//     console.log(`You didn't enter your name`);
+// }
+// 
+// console.log(`Hello ${username}`)
 
-console.log(`Hello ${username}`)
+
+//------------11 june 2025----------
+// spread operator = ... allows an iterable such as an array or string to be expanded into seperate elements (unpacks the elements)
+
+
+/*
+let fruits = ["apple","orange","banana"];
+let vegetables = ["carrots","celery","potatoes"];
+let  foods = [...fruits,...vegetables,"eggs","milk"];
+console.log(foods);   */
+
+
+// rest parameters = (...rest) allow a function work with a variable number of argumnets by bundling them intoan array
+// 
+// spread = expands an array into seperate elements 
+// rest = bundles seperate elements into an array
+
+
+// function openFridge(...foods){
+//     console.log(...foods);
+// }
+// function getFood(...foods){
+//  return foods;
+// }   
+// const food1 = "pizza";
+// const food2 = "hamburger";
+// const food3 = "hotdog";
+// const food4 = "sushil";
+// const food5 = "ramen";
+// 
+// // openFridge(food1,food2,food3,food4,food5);
+// 
+// const foods = getFood(food1,food2,food3,food4,food5);
+// console.log(foods);
+
+function combineStrings(...strings){
+    return strings.join(" ");
+}
+const fullName = combineStrings("Mr.","Spongebob","Squarepants","III");
+
+console.log(fullName);
