@@ -42,14 +42,14 @@
 # 28 03:44:32 ⭐ Dice Roller program 🎲
 
 # 29 03:58:44 ⭐ Random password generator 🔑
-#30 04:10:49 Callbacks 🤙
+# 30 04:10:49 Callbacks 🤙   : 12 may 2025 
 
-#31 04:18:05 forEach() ➿
-#32 04:26:07 map() 🗺
-#33 04:33:08 filter() 🚰
+# 31 04:18:05 forEach() ➿
+# 32 04:26:07 map() 🗺
+# 33 04:33:08 filter() 🚰
 
-#34 04:39:37 reduce() ♻
-#35 04:45:07 Function expressions 🐣
+# 34 04:39:37 reduce() ♻
+# 35 04:45:07 Function expressions 🐣
 
 #36 04:52:39 Arrow functions 🎯
 #37 05:00:40 JavaScript Objects🧍
