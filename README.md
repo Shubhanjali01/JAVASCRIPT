@@ -51,8 +51,8 @@
 # 34 04:39:37 reduce() ♻
 # 35 04:45:07 Function expressions 🐣
 
-#36 04:52:39 Arrow functions 🎯
-#37 05:00:40 JavaScript Objects🧍
+# 36 04:52:39 Arrow functions 🎯   : 14 may 
+# 37 05:00:40 JavaScript Objects🧍
 
 #38 05:07:40 What is THIS 👈
 #39 05:12:07 Constructors 🛠
