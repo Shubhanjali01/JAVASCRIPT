@@ -31,18 +31,18 @@
 # 20 02:34:53 For loops 🔂
 # 21 02:40:37 ⭐ Number guessing game ↕
 
-# 22 02:49:31 Functions 📞   : 10 may 2025
+# 22 02:49:31 Functions 📞   : 10 june 2025
 # 23 03:01:44 Variable scope 🏠
 
 # 24 03:07:10 ⭐ Temperature conversion program🌡️: 30 m | 26 may 
-# 25 03:23:28 Arrays 🗃   : 10 may 2025
-# 26 03:31:33 Spread operator 📖   :11 may 2025
+# 25 03:23:28 Arrays 🗃   : 10 june 2025
+# 26 03:31:33 Spread operator 📖   :11 june 2025
 
 # 27 03:36:27 Rest parameters 🗄
 # 28 03:44:32 ⭐ Dice Roller program 🎲
 
 # 29 03:58:44 ⭐ Random password generator 🔑
-# 30 04:10:49 Callbacks 🤙   : 12 may 2025 
+# 30 04:10:49 Callbacks 🤙   : 12 june 2025 
 
 # 31 04:18:05 forEach() ➿
 # 32 04:26:07 map() 🗺
@@ -51,17 +51,17 @@
 # 34 04:39:37 reduce() ♻
 # 35 04:45:07 Function expressions 🐣
 
-# 36 04:52:39 Arrow functions 🎯   : 14 may 
+# 36 04:52:39 Arrow functions 🎯   : 14 june 
 # 37 05:00:40 JavaScript Objects🧍
 
-#38 05:07:40 What is THIS 👈
-#39 05:12:07 Constructors 🛠
+# 38 05:07:40 What is THIS 👈  : 19 june
+# 39 05:12:07 Constructors 🛠
 
-#40 05:17:38 Classes 🏭
-#41 05:23:47 STATIC keyword ⚡
+# 40 05:17:38 Classes 🏭
+# 41 05:23:47 STATIC keyword ⚡
 
-#42 05:31:50 Inheritance 🐇
-#43 05:38:53 SUPER keyword 🦸‍♂️
+# 42 05:31:50 Inheritance 🐇
+# 43 05:38:53 SUPER keyword 🦸‍♂️
 #44 05:48:14 Getters & Setters 📐
 
 #45 06:01:28 Destructuring 💥

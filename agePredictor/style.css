@@ -1,12 +1,13 @@
 body{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
 text-align: center; 
+margin-top:80px;
 
 }
 .label{
     color: blue;
     font-weight: 500;
-
+      margin-top:50px;
 }
 #myText{
     border-radius: 10px;
@@ -30,3 +31,4 @@ text-align: center;
    font-size: large;
    font-family: 'Courier New', Courier, monospace;
 }
+

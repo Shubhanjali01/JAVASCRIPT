@@ -77,10 +77,6 @@ is a
 // console.log(result);
 
 
-
-
-
-
 // how to accept user input 
 
 // 1. EASY WAY  = window prompt 
@@ -137,19 +133,18 @@ is a
 // const pi = 3.14159;
 // let radius;
 // let circumference;
-// 
+
 // // circumference = 2 * pi * radius;
-// 
-// document.getElementById("mySubmit").onclick = function(){
-//   radius = document.getElementById("myText").value ;
-//   radius = Number(radius);
-// circumference = 2 * pi * radius;
-//   document.getElementById("myH3").textContent = "Result : " + circumference.toFixed(2) + "cm";
+
+// document.getElementById("mySubmit").onclick = function () {
+//     radius = document.getElementById("myText").value;
+//     radius = Number(radius);
+//     circumference = 2 * pi * radius;
+//     document.getElementById("myH3").textContent = "Result : " + circumference.toFixed(2) + "cm";
 // }
 
-
-// document.getElementById("mySubmit").onclick = function(){
-//    const selectedLang = document.getElementById("id1").value ;
+// document.getElementById("mySubmit").onclick = function () {
+//     const selectedLang = document.getElementById("id1").value;
 //     document.getElementById("result").textContent = "I love " + selectedLang;
 // }
 
@@ -182,7 +177,6 @@ is a
 // console.log(message);
 //Switch statmets
 
-// 
 // let testScore = 92;
 // let letterGrade;
 // switch(true){
@@ -204,7 +198,7 @@ is a
 //     default:
 //         letterGrade = "F";      
 // }
-// 
+
 // console.log(letterGrade);
 
 // let userName = " BroCode ";
@@ -223,11 +217,10 @@ is a
 // let result = phoneNum.padStart(15, "000");
 // console.log(result);
 
-// 
 // const fullName = "Bro Code";
-// let firstName = fullName.slice(0,3);
-// let lastName = fullName.slice(4,8);
-// let firstChar = fullName.slice(0,1);
+// let firstName = fullName.slice(0, 3);
+// let lastName = fullName.slice(4, 8);
+// let firstChar = fullName.slice(0, 1);
 // let lastChar = fullName.slice(-4);
 
 // const email = "Bro1@gmail.com";
@@ -237,15 +230,15 @@ is a
 // console.log(extension);
 
 // let username = window.prompt("Enter your username: ")
-// //  username = username.trim();
+// username = username.trim();
 // let letter = username.charAt(0);
 // letter = letter.toUpperCase();
-// // letter = letter.toLowerCase();
-// 
+// letter = letter.toLowerCase();
+
 // let extrachars = username.slice(1);
 // extrachars = extrachars.toLowerCase();
 // username = letter + extrachars;
-// 
+
 // console.log(username);
 
 
@@ -264,7 +257,6 @@ is a
 //     console.log("That is Pi");
 // }
 
-
 // for loop = repeat some code a LIMITED amount of times
 
 // 
@@ -275,7 +267,6 @@ is a
 //         console.log(i);
 //     }
 // }
-
 
 // while loop = repeat some code WHILE some condition is ture;
 
@@ -296,8 +287,7 @@ is a
 
 
 //------------11 june 2025----------
-// spread operator = ... allows an iterable such as an array or string to be expanded into seperate elements (unpacks the elements)
-
+//spread operator = ... allows an iterable such as an array or string to be expanded into seperate elements (unpacks the elements)
 
 /*
 let fruits = ["apple","orange","banana"];
@@ -340,12 +330,12 @@ console.log(foods);   */
 // -----------------------------------------17 june 2025 ------------
 // arrow functions = a concise way to write function expressions good for simple functions that you use only once (parameters) => some code
 
-const numbers = [1,2,3,4,5];
+const numbers = [1, 2, 3, 4, 5];
 
-const squares = numbers.map((element)=> Math.pow(element,2));
-const cubes = numbers.map((element) => Math.pow(element,3));
-const evenNums = numbers.filter((element)=>element % 2 === 0);
-const oddNums = numbers.filter((element)=>element % 2!==0);
-const total = numbers.reduce((accumulator,element)=>accumulator + element);
+const squares = numbers.map((element) => Math.pow(element, 2));
+const cubes = numbers.map((element) => Math.pow(element, 3));
+const evenNums = numbers.filter((element) => element % 2 === 0);
+const oddNums = numbers.filter((element) => element % 2 !== 0);
+const total = numbers.reduce((accumulator, element) => accumulator + element);
 
 console.log(total);
