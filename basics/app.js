@@ -329,9 +329,23 @@ console.log(foods);   */
 // const foods = getFood(food1,food2,food3,food4,food5);
 // console.log(foods);
 
-function combineStrings(...strings){
-    return strings.join(" ");
-}
-const fullName = combineStrings("Mr.","Spongebob","Squarepants","III");
+// function combineStrings(...strings){
+//     return strings.join(" ");
+// }
+// const fullName = combineStrings("Mr.","Spongebob","Squarepants","III");
+// 
+// console.log(fullName);
 
-console.log(fullName);
+
+// -----------------------------------------17 june 2025 ------------
+// arrow functions = a concise way to write function expressions good for simple functions that you use only once (parameters) => some code
+
+const numbers = [1,2,3,4,5];
+
+const squares = numbers.map((element)=> Math.pow(element,2));
+const cubes = numbers.map((element) => Math.pow(element,3));
+const evenNums = numbers.filter((element)=>element % 2 === 0);
+const oddNums = numbers.filter((element)=>element % 2!==0);
+const total = numbers.reduce((accumulator,element)=>accumulator + element);
+
+console.log(total);
