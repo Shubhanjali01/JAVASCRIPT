@@ -62,11 +62,11 @@
 
 # 42 05:31:50 Inheritance 🐇
 # 43 05:38:53 SUPER keyword 🦸‍♂️
-#44 05:48:14 Getters & Setters 📐
+# 44 05:48:14 Getters & Setters 📐     : 21 june
 
-#45 06:01:28 Destructuring 💥
-#46 06:10:08 Nested objects 📫
-#47 06:19:21 Arrays of objects 🍎
+# 45 06:01:28 Destructuring 💥
+# 46 06:10:08 Nested objects 📫
+# 47 06:19:21 Arrays of objects 🍎
 
 #48 06:29:21 Sorting 🗃
 #49 06:36:03 Shuffle an array 🔀
