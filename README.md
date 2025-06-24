@@ -68,7 +68,7 @@
 # 46 06:10:08 Nested objects 📫
 # 47 06:19:21 Arrays of objects 🍎
 
-#48 06:29:21 Sorting 🗃
+#48 06:29:21 Sorting 🗃     : 24 june 
 #49 06:36:03 Shuffle an array 🔀
 
 #50 06:40:08 Dates 📅
