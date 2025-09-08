@@ -68,31 +68,31 @@
 # 46 06:10:08 Nested objects 📫
 # 47 06:19:21 Arrays of objects 🍎
 
-#48 06:29:21 Sorting 🗃     : 24 june 
-#49 06:36:03 Shuffle an array 🔀
+# 48 06:29:21 Sorting 🗃     : 24 june 
+# 49 06:36:03 Shuffle an array 🔀
 
-#50 06:40:08 Dates 📅
-#51 06:48:09 Closures 🔒
-#52 06:59:07 setTimeout() ⏰
+# 50 06:40:08 Dates 📅   : 09 july 19 Aug 
+# 51 06:48:09 Closures 🔒
+# 52 06:59:07 setTimeout() ⏰ : 08 Sept 
 
-#53 07:05:20 ⭐ Digital Clock program 🕐
-#54 07:16:07 ⭐ Stopwatch program ⏱
-#55 07:34:12 ES6 Modules 🚢
+# 53 07:05:20 ⭐ Digital Clock program 🕐
+# 54 07:16:07 ⭐ Stopwatch program ⏱
+# 55 07:34:12 ES6 Modules 🚢
 
-#56 07:40:17 Asynchronous code 💤
-#57 07:45:04 Error handling ⚠
-#58 07:54:06 ⭐ Calculator program 🖩
+# 56 07:40:17 Asynchronous code 💤
+# 57 07:45:04 Error handling ⚠
+# 58 07:54:06 ⭐ Calculator program 🖩
 
-#59 08:09:26 What is the DOM? 🌳
-#60 08:14:26 Element selectors 📑
+# 59 08:09:26 What is the DOM? 🌳
+# 60 08:14:26 Element selectors 📑
 
-#61 08:32:04 DOM navigation 🧭
-#62 08:47:31 Add & change HTML 🛠️
-#63 09:03:03 Mouse events 🖱
+# 61 08:32:04 DOM navigation 🧭
+# 62 08:47:31 Add & change HTML 🛠️
+# 63 09:03:03 Mouse events 🖱
 
-#64 09:13:33 Key events ⌨
-#65 09:24:49 Hide/show HTML 🖼
-#66 09:30:00 NodeLists 📃
+# 64 09:13:33 Key events ⌨
+# 65 09:24:49 Hide/show HTML 🖼
+# 66 09:30:00 NodeLists 📃
 
 #67 09:43:21 classList 🧾
 #68 09:59:20 ⭐ Rock Paper Scissors 👊
