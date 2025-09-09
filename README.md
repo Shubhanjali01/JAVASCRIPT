@@ -94,15 +94,15 @@
 # 65 09:24:49 Hide/show HTML 🖼
 # 66 09:30:00 NodeLists 📃
 
-#67 09:43:21 classList 🧾
-#68 09:59:20 ⭐ Rock Paper Scissors 👊
+# 67 09:43:21 classList 🧾 : 09 sept 2025
+# 68 09:59:20 ⭐ Rock Paper Scissors 👊
 
-#69 10:18:14 ⭐ Image Slider 🖼️
-#70 10:34:03 Callback Hell? 🔥
-#71 10:39:50 Promises 🤞
+# 69 10:18:14 ⭐ Image Slider 🖼️
+# 70 10:34:03 Callback Hell? 🔥
+# 71 10:39:50 Promises 🤞
 
-#72 10:52:24 Async/Await ⏳
-#73 10:57:00 JSON files 📄
+# 72 10:52:24 Async/Await ⏳
+# 73 10:57:00 JSON files 📄
 #74 11:07:07 Fetch data from an API ↩️
 
 #75 11:21:22 ⭐ Weather App project ☀️
