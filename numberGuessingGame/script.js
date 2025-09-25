@@ -5,6 +5,7 @@
 // // Math.floor(1) === 1  and  Math.floor(100.9) === 100
 // let randomNumber = Math.floor(Math.random() * 100) + 1;
 // 
+
  function checkGuess(){
     const guess = parseInt(document.getElementById('guessInput').value);
     const message = document.getElementById('message')
