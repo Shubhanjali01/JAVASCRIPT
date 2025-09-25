@@ -103,7 +103,7 @@
 
 # 72 10:52:24 Async/Await ⏳
 # 73 10:57:00 JSON files 📄
-#74 11:07:07 Fetch data from an API ↩️
+# 74 11:07:07 Fetch  data from an API ↩️:: 10 sept 
 
-#75 11:21:22 ⭐ Weather App project ☀️
+# 75 11:21:22 ⭐ Weather App project ☀️
 
