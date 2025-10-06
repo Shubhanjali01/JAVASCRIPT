@@ -18,3 +18,27 @@
     margin: auto;
 }
 
+#restartBtn{
+    
+    background-color: rgb(0, 255, 153);
+    color: white;
+    padding: 20px 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#restartBtn:hover{
+    
+    cursor: pointer;
+    background-color: hsl(205, 78%, 62%);
+
+}
+
+#head{
+    font-size: bold;
+    color: hsl(243, 67%, 46%);
+
+}
