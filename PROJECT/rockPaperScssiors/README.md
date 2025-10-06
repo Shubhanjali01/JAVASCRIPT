@@ -25,6 +25,7 @@ Play against the computer, track your score, and enjoy the classic game with a c
 ├── index.html   # Main game structure (UI elements & buttons)
 ├── style.css    # Styling and layout
 └── index.js     # Game logic and interactivity
+└── README.md    # Project documentation  
 ```
 
 ---

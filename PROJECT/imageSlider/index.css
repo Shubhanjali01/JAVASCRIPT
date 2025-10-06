@@ -1,7 +1,17 @@
-body {
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    display: flex;
     justify-content: center;
     align-items: center;
+
 }
+
+
+
 .slider{
     position: relative;
     width: 100%;
@@ -16,6 +26,7 @@ body {
     align-items: center;
     margin-top:150px ;
     margin-bottom:150px ;
+    
 
     display: none;
 
